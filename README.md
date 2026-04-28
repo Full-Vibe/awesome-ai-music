@@ -39,6 +39,7 @@ Full-featured platforms for creating music with AI.
 - **[Wondera](https://www.wondera.ai)** — AI music creation platform with style transfer and multi-track editing. `freemium`
 - **[Stable Audio](https://www.stableaudio.com)** — Stability AI's music and sound generation platform. High-quality, long-form audio. `freemium`
 - **[Google MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx)** — Google's experimental AI music generator powered by DeepMind's Lyria model. `free`
+- **[Suede](https://suedeai.ai/)** — AI agents that create music and video — and automatically register your ownership on-chain the moment it's made. Every track is immediately licensable and royalty-earning. The only generator where creating and owning happen in the same action. Distribute to Spotify, Apple Music, TikTok, and more. `freemium` `web3`
 
 ## 🎧 Focus & Productivity Music
 
