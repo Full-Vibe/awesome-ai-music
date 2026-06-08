@@ -73,6 +73,7 @@ Self-hostable models and research code for AI music generation.
 
 Libraries and tools for building music-powered applications.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments in music AI pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - **[Tone.js](https://tonejs.github.io/)** — Web Audio framework for creating interactive music in the browser. The standard for browser-based music apps. ⭐ 13k+ stars `open source`
 - **[Tonal](https://github.com/tonaljs/tonal)** — Music theory library for JavaScript. Chords, scales, intervals, keys — everything you need for algorithmic composition. `open source`
 - **[music21](https://github.com/cuthbertLab/music21)** — Python toolkit for computational musicology. MIDI processing, score analysis, music theory. From MIT. `open source`
