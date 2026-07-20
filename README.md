@@ -80,6 +80,7 @@ Libraries and tools for building music-powered applications.
 - **[FluidSynth](https://www.fluidsynth.org/)** — Real-time software synthesizer based on SoundFont. Cross-platform, used in many music apps. `open source`
 - **[pretty-midi](https://github.com/craffel/pretty-midi)** — Python library for manipulating and analyzing MIDI data. Great for ML pipelines. `open source`
 - **[Suno API (Unofficial)](https://github.com/gcui-art/suno-api)** — Reverse-engineered API client for Suno. Use Suno's generation capabilities programmatically. `open source`
+- **[RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk)** — SDK for Suno text-to-music, cover audio, music extension, stem separation, custom voice, and related audio workflows. `open source`
 
 ## 📊 Audio Analysis & MIR
 
