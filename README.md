@@ -71,6 +71,8 @@ Self-hostable models and research code for AI music generation.
 
 ## 🔧 Developer SDKs & Tools
 
+- **[Cadence Music](https://music.rynn.me)** — Free AI song generator in the browser: describe a gift or paste lyrics → full song with vocals. 4 free/day, no watermark; Keep $1.99.
+
 Libraries and tools for building music-powered applications.
 
 - **[Tone.js](https://tonejs.github.io/)** — Web Audio framework for creating interactive music in the browser. The standard for browser-based music apps. ⭐ 13k+ stars `open source`
