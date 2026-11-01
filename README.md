@@ -39,6 +39,7 @@ Full-featured platforms for creating music with AI.
 - **[Wondera](https://www.wondera.ai)** — AI music creation platform with style transfer and multi-track editing. `freemium`
 - **[Stable Audio](https://www.stableaudio.com)** — Stability AI's music and sound generation platform. High-quality, long-form audio. `freemium`
 - **[Google MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx)** — Google's experimental AI music generator powered by DeepMind's Lyria model. `free`
+- **[LyricsGift](https://lyricsgift.com)** — Personalised gift songs written from a story you type; approve the lyrics line by line and preview a minute of two versions before paying. `paid` (one-time, from A$39)
 
 ## 🎧 Focus & Productivity Music
 
