@@ -112,6 +112,7 @@ AI tools for voice generation, cloning, and vocal processing.
 - **[RVC (Retrieval-based Voice Conversion)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** — Real-time voice conversion. Widely used in the AI music community. ⭐ 25k+ stars `open source`
 - **[Uberduck](https://uberduck.ai/)** — AI voice and rap generation. Text-to-speech with musical styles. `freemium`
 - **[voicetoinstrument.com](https://voicetoinstrument.com)** — Convert voice to instrumental tracks using AI. Extract vocals from any audio and replace with AI-generated instruments. `freemium`
+- **[MusiCraft Stem Splitter](https://www.musicraft.ai/features/stem-splitter)** — Browser-based AI stem separation that splits songs into vocals, drums, bass, and other tracks. `freemium`
 
 ## 🔊 Sound Design & SFX
 
